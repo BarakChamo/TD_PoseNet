@@ -1,5 +1,5 @@
 # TouchDesign + PoseNet with [Runway](https://github.com/runwayml)
-A PoseNet to TouchDesigner integration using (Runway ML)[https://runwayapp.ai]
+A PoseNet to TouchDesigner integration using [Runway ML](https://runwayapp.ai)
 
 ### What's PoseNet
 [PoseNet](https://github.com/tensorflow/tfjs-models/tree/master/posenet) is a machine-learning based pose detection model built on [TensorFlow.js](https://js.tensorflow.org).
