@@ -23,6 +23,7 @@ To use the .tox first load it into your project, make sure the OSC port and IP a
 this will send the initiation message to Runway and begin streaming detected pose data from the `DAT` output.
 
 The output includes the overall pose score as we as a `_score`, `_x` and `_y` for every keypoint.
+Each pose detected, in case the model runs in multipose mode, will be represented as a new row in the `DAT`.
 
 You can also
 1. choose which keypoints to export (less keypoints improve performance).
