@@ -1,4 +1,4 @@
-# TouchDesign + PoseNet with [Runway](https://github.com/runwayml)
+# TouchDesigner + PoseNet with [Runway](https://github.com/runwayml)
 A PoseNet to TouchDesigner integration using [Runway ML](https://runwayapp.ai)
 
 ### What's PoseNet
