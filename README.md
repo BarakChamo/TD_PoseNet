@@ -2,7 +2,7 @@
 A PoseNet to TouchDesigner integration using [Runway ML](https://runwayapp.ai)
 
 ### What's PoseNet
-[PoseNet](https://github.com/tensorflow/tfjs-models/tree/master/posenet) is a machine-learning based pose detection model built on [TensorFlow.js](https://js.tensorflow.org).
+[PoseNet](https://github.com/tensorflow/tfjs-models/tree/master/posenet) is a machine-learning based pose detection model built on [TensorFlow.js](https://js.tensorflow.org). Read more about it in [this post](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5) by Dan Oved.
 
 ### What's Runway
 [Runway](https://runwayapp.ai) is an intuitive machine learning tool for creators.
