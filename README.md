@@ -36,4 +36,4 @@ You can also
 4. Toggle `Enable OSC` in TouchDesigner.
 
 ### Thoughts? issues?
-head over here
+[head over here](https://github.com/BarakChamo/TD_PoseNet/issues)
