@@ -34,3 +34,6 @@ You can also
 2. Set the output to `Network` and then `OSC` and verify the ip and port.
 3. Hit `Run PoseNet`.
 4. Toggle `Enable OSC` in TouchDesigner.
+
+### Thoughts? issues?
+head over here
